@@ -16,7 +16,7 @@ http://bordodynov.ltwiki.org/
 ## Tips covered in the Video:  
 Tip 1: Differential Voltage Probing  
 Tip 2: Current in a wire  
-Tip 3: Mega Ω ≠ M?  
+Tip 3: Mega Ω ≠ MΩ?  
 Tip 4: Bordodynov Library, thousands of models & symbols!  
 Tip 5: Import a discrete component simulation model  
 Tip 6: LTSpice file name extensions  
@@ -32,7 +32,7 @@ Tip 12: LTSpice’s built in simulation examples
 
 ### LTspice simulation files used for the tutorial:    
 
-Tip 01 & 02: Measure differential Voltage and Current in a wire in a a-stable multi-vibrator circuit  
-Tip 05: Import a discrete part: BC549B NPN transistor for a common emitter amplifier.  
-Tip 07: Import an IC: 74HC4017 Johnson counter.  
-Tip 09/10: Fix slow or failing simulation with 2 methods, using a Colpitts oscillator as an example.  
+Tip 01 & 02: Measure differential Voltage and Current in a wire (astable multivibrator)  
+Tip 05: Import a discrete part: BC549B NPN transistor (common emitter amplifier).  
+Tip 07: Import an IC: 74HC4017 (Johnson Counter).  
+Tip 09 & 10: Fix slow or failing simulation with 2 methods (Colpitts oscillator).  
