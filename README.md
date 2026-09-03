@@ -1,8 +1,8 @@
 # Description
 
-LTspice is capable of so much more than you realize.
+LTSpice is capable of so much more than you realize.
 In this tutorial, I share 12 essential tips to unlock its full potential:  
-we will import custom components, unlock a massive library of thousands of free components,   
+We will import custom components, unlock a massive library of thousands of free components, 
 master hidden differential probing tools, and kick-start simulations that refuse to run!
 
 ### Watch the YouTube video, it will guide you through the process step by step:  
