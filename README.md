@@ -6,9 +6,9 @@ We will import custom components, unlock a massive library of thousands of free 
 master hidden differential probing tools, and kick-start simulations that refuse to run!
 
 ### Watch the YouTube video, it will guide you through the process step by step:  
-[![Watch the video](https://img.youtube.com/vi/W7xaxCvsmhc/0.jpg)](https://youtu.be/W7xaxCvsmhc)  
+[![Watch the video](https://img.youtube.com/vi/FEkZ1UwJziM/0.jpg)](https://youtu.be/FEkZ1UwJziM)  
 
-Download LTspice Simulator:  
+Download LTSpice Simulator:  
 https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html  
 Download Bordodynov Library:  
 http://bordodynov.ltwiki.org/
